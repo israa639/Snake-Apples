@@ -1,0 +1,8 @@
+﻿  Snake.cpp
+c:\users\israa\source\repos\snakev6\snakev6\snake.cpp(318): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\israa\source\repos\snakev6\snakev6\snake.cpp(322): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\israa\source\repos\snakev6\snakev6\snake.cpp(377): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\israa\source\repos\snakev6\snakev6\snake.cpp(399): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\israa\source\repos\snakev6\snakev6\snake.cpp(557): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\israa\source\repos\snakev6\snakev6\snake.cpp(575): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  snakeV6.vcxproj -> C:\Users\israa\source\repos\snakeV6\Debug\snakeV6.exe
